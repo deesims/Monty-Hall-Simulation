@@ -10,6 +10,4 @@ that was initially selected. Should the player switch the door or stay with thei
 
 The better strategy can be seen in this implementation written in Java. 
 
-Execute MontyHall.java [n] [y]
-n = number of plays
-y = number of doors 
+Execute MontyHall.java to run. 
